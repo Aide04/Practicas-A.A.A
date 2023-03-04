@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+  <head>
+   <title> Practica 1 </title>
+  </head>
+  <body>
+    <h1 align ="center"  > Aide Alcauter Aponte </h1><hr>
+    <h3 >Rol DBA   </h3>
+    <h3>Descripcion:Un administrador de base de datos . Administra las tecnologias de la informacion </h3><hr>
+    <ul >
+        <span >Datos :</span> 
+            <li>Edad: 18 años</li>
+            <li>Carrera:PTB en Informatica </li>
+            <li>Semestre:6 semestre</li>
+    </ul>
+    <ul align="center">
+         <span>Gustos:</span> 
+            <p align="center">Me gusta jugar basquetboll futbol, me gusta cosinar ,
+               escuchar a las personas y mi pasatiempo faborito es leer
+              tambien me gustan ver peliculas romanticas o de navidad  </p>
+    </ul>
+  </body>
+</html>
